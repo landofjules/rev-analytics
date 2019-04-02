@@ -1,6 +1,8 @@
 // IN DEV USE THIS
 // mixpanel.opt_out_tracking();
 
+console.log("loaded from pages")
+
 // scroll positions
 const OFFSET = 200;
 const scrollTrackers = {
